@@ -1,2 +1,2 @@
 # SQL
-sql study
+BDA sql study 
